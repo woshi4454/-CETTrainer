@@ -6,6 +6,19 @@
 > 源码从已发布的 `CETTrainer.exe` 反编译还原，并在还原版上完成了整套 UI 重设计，
 > 逻辑层（`store` / `tts` / `cetpack` / 题库数据）与原版保持一致，未做破坏性改动。
 
+## 下载
+
+**[→ 前往 Releases 下载 `CETTrainer.exe`](https://github.com/woshi4454/-CETTrainer/releases/latest)**
+
+Windows 单文件程序，约 16 MB，**双击即用，不需要安装 Python**。
+首次启动需 5~15 秒解压自身，属正常现象。
+
+| 截图 | |
+|---|---|
+| 词汇记忆 | ![词汇记忆](docs/screenshots/01-vocab.png) |
+| 听写训练 | ![听写训练](docs/screenshots/02-dictation.png) |
+| 学习统计 | ![学习统计](docs/screenshots/03-stats.png) |
+
 ---
 
 ## 功能一览
