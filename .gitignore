@@ -1,0 +1,36 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 打包产物
+*.exe
+*.spec.bak
+CETTrainer.spec
+
+# 运行时数据（用户数据，不该进版本库）
+cet_data/
+*.db
+*.db.bak
+*.sqlite
+*.sqlite3
+
+# 日志与临时
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
